@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sairam K</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
-- 🌱 I’m currently learning **Machine Learning , Deep Learning , Flutter , CV**
+- 🌱 I’m currently learning **Machine Learning , Deep Learning , Speech Recognition , CV**
 
 - 👨‍💻 All of my projects are available at [https://sairamk.netlify.app/](https://sairamk.netlify.app/)
 
