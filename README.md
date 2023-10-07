@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@sairamkumar2611](https://medium.com/@sairamkumar2611)
 
-- 💬 Ask me about **Machine Learning , Python**
+- 💬 Ask me about **Machine Learning and Python**
 
 - 📫 How to reach me **sairamkumar2611@gmail.com**
 
